@@ -55,7 +55,6 @@ flutter:
 
   assets:
     - assets/images/
-    - assets/images/interface/
     - assets/images/item/
     - assets/images/maps/
     - assets/images/npc/
