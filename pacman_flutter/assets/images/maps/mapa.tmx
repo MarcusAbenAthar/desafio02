@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.1" orientation="orthogonal" renderorder="right-down" width="30" height="9" tilewidth="32" tileheight="32" infinite="0" nextlayerid="6" nextobjectid="282">
+ <editorsettings>
+  <export target="mapa.json" format="json"/>
+ </editorsettings>
+ <tileset firstgid="1" name="background2" tilewidth="32" tileheight="32" tilecount="66" columns="11">
+  <image source="background2.png" width="362" height="199"/>
+  <tile id="0">
+   <objectgroup draworder="index" id="3">
+    <object id="2" x="0" y="10.548" width="4.12386" height="21.452"/>
+    <object id="3" x="0.0396525" y="0.0797307" width="31.8013" height="10.5476"/>
+    <object id="4" x="27.8361" y="10.6273" width="4.04456" height="21.1348"/>
+    <object id="5" x="26.9241" y="10.667" width="0.872355" height="2.26019"/>
+    <object id="6" x="4.20317" y="10.6273" width="0.79305" height="2.29985"/>
+   </objectgroup>
+  </tile>
+  <tile id="1">
+   <objectgroup draworder="index" id="2">
+    <object id="6" x="0" y="-0.0625" width="32.0625" height="4.25"/>
+    <object id="8" x="-0.03125" y="27.875" width="32.0625" height="4.25"/>
+    <object id="9" x="0" y="4.25" width="13" height="23.4375"/>
+   </objectgroup>
+  </tile>
+  <tile id="2">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="-0.125" y="0" width="32.25" height="4.0625"/>
+    <object id="2" x="0" y="28" width="32.0625" height="3.9375"/>
+   </objectgroup>
+  </tile>
+  <tile id="3">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.078125" y="0.09375" width="32.0625" height="4.25"/>
+    <object id="2" x="0.109375" y="28.0313" width="32.0625" height="4.25"/>
+    <object id="3" x="19.1406" y="4.40625" width="13" height="23.4375"/>
+   </objectgroup>
+  </tile>
+  <tile id="11">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="-0.0398159" width="4.0214" height="32.0119"/>
+    <object id="2" x="28" y="-0.1875" width="3.9375" height="32"/>
+   </objectgroup>
+  </tile>
+  <tile id="12">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0.0625" width="4.125" height="31.875"/>
+    <object id="2" x="4.1875" y="-0.125" width="27.6875" height="4.25"/>
+    <object id="3" x="4.125" y="4.3125" width="1.125" height="8.625"/>
+    <object id="4" x="5.1875" y="4.25" width="0.75" height="5.625"/>
+    <object id="5" x="5.8125" y="4.25" width="7.25" height="0.5625"/>
+    <object id="6" x="6.0625" y="5" width="4" height="2.9375"/>
+    <object id="8" x="25.4375" y="26.875" width="8.125" height="7.5625"/>
+   </objectgroup>
+  </tile>
+  <tile id="13">
+   <objectgroup draworder="index" id="3">
+    <object id="8" x="27.7813" y="0.03125" width="4.125" height="31.875"/>
+    <object id="9" x="0.03125" y="-0.15625" width="27.6875" height="4.25"/>
+    <object id="10" x="26.6563" y="4.28125" width="1.125" height="8.625"/>
+    <object id="11" x="25.9688" y="4.21875" width="0.75" height="5.625"/>
+    <object id="12" x="18.8438" y="4.21875" width="7.25" height="0.5625"/>
+    <object id="13" x="21.8438" y="4.96875" width="4" height="2.9375"/>
+    <object id="14" x="-1.65625" y="26.8438" width="8.125" height="7.5625"/>
+   </objectgroup>
+  </tile>
+  <tile id="15">
+   <objectgroup draworder="index" id="3">
+    <object id="2" x="-0.1875" y="-0.0625" width="32.125" height="4.1875"/>
+    <object id="3" x="0.125" y="26" width="6.0625" height="6.125"/>
+    <object id="4" x="25.9688" y="26.0625" width="6.0625" height="6.125"/>
+   </objectgroup>
+  </tile>
+  <tile id="22">
+   <objectgroup draworder="index" id="2">
+    <object id="16" x="0.18467" y="0.102365" width="4.12386" height="21.452"/>
+    <object id="17" x="0.224322" y="21.475" width="31.8013" height="10.5476"/>
+    <object id="18" x="28.0208" y="0.340265" width="4.04456" height="21.1348"/>
+    <object id="19" x="27.1088" y="19.1752" width="0.872355" height="2.26019"/>
+    <object id="20" x="4.38784" y="19.1752" width="0.79305" height="2.29985"/>
+   </objectgroup>
+  </tile>
+  <tile id="23">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.09375" y="0.28125" width="4.125" height="31.875"/>
+    <object id="2" x="4.28125" y="28.0938" width="27.6875" height="4.25"/>
+    <object id="3" x="4.21875" y="19.2813" width="1.125" height="8.625"/>
+    <object id="4" x="5.28125" y="22.3438" width="0.75" height="5.625"/>
+    <object id="5" x="5.90625" y="27.4063" width="7.25" height="0.5625"/>
+    <object id="6" x="6.15625" y="24.2813" width="4" height="2.9375"/>
+    <object id="7" x="25.5313" y="-2.21875" width="8.125" height="7.5625"/>
+   </objectgroup>
+  </tile>
+  <tile id="24">
+   <objectgroup draworder="index" id="3">
+    <object id="8" x="27.7188" y="0.09375" width="4.125" height="31.875"/>
+    <object id="9" x="-0.03125" y="27.9063" width="27.6875" height="4.25"/>
+    <object id="10" x="26.5938" y="19.0938" width="1.125" height="8.625"/>
+    <object id="11" x="25.9063" y="22.1563" width="0.75" height="5.625"/>
+    <object id="12" x="18.7813" y="27.2188" width="7.25" height="0.5625"/>
+    <object id="13" x="21.7813" y="24.0938" width="4" height="2.9375"/>
+    <object id="14" x="-1.71875" y="-2.40625" width="8.125" height="7.5625"/>
+   </objectgroup>
+  </tile>
+  <tile id="25">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.0469" y="28" width="32.125" height="4.1875"/>
+    <object id="2" x="25.7969" y="0" width="6.0625" height="6.125"/>
+    <object id="3" x="-0.0469" y="-0.0625" width="6.0625" height="6.125"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <layer id="1" name="maze" width="30" height="9">
+  <data encoding="csv">
+13,3,3,3,3,3,3,3,3,3,3,3,3,16,3,16,3,16,3,16,3,3,3,3,3,3,3,3,3,14,
+12,60,60,60,60,60,60,60,60,60,60,60,60,23,60,23,60,23,60,23,60,60,60,60,60,60,60,60,60,12,
+12,60,2,3,3,3,3,3,3,3,3,4,60,60,60,60,60,60,60,60,60,1,60,2,3,3,3,4,60,12,
+12,60,60,60,60,60,60,60,60,60,60,60,60,2,3,3,3,3,3,4,60,12,60,60,60,60,60,60,60,12,
+12,60,13,14,60,1,60,1,60,1,60,1,60,60,60,60,60,60,60,60,60,12,60,1,60,1,60,1,60,12,
+12,60,12,12,60,12,60,12,60,12,60,12,60,2,3,3,3,3,3,4,60,12,60,12,60,12,60,12,60,12,
+12,60,24,25,60,23,60,23,60,23,60,23,60,60,60,60,60,60,60,60,60,23,60,23,60,23,60,23,60,12,
+12,60,60,60,60,60,60,60,60,60,60,60,60,1,60,1,60,1,60,1,60,60,60,60,60,60,60,60,60,12,
+24,3,3,3,3,3,3,3,3,3,3,3,3,26,3,26,3,26,3,26,3,3,3,3,3,3,3,3,3,25
+</data>
+ </layer>
+ <objectgroup id="2" name="ghost">
+  <object id="2" name="pink" x="424" y="136" width="20" height="20"/>
+  <object id="4" name="red" x="488" y="136" width="20" height="20"/>
+  <object id="5" name="blue" x="552" y="136" width="20" height="20"/>
+  <object id="6" name="orange" x="616" y="136" width="20" height="20"/>
+  <object id="65" name="superPill" x="42.9091" y="43.4545" width="16" height="16"/>
+  <object id="68" name="pill" x="67" y="41" width="16" height="16"/>
+  <object id="69" name="pill" x="99" y="41" width="16" height="16"/>
+  <object id="70" name="pill" x="134" y="40" width="16" height="16"/>
+  <object id="71" name="pill" x="163" y="41" width="16" height="16"/>
+  <object id="72" name="pill" x="195" y="41" width="16" height="16"/>
+  <object id="73" name="pill" x="227" y="41" width="16" height="16"/>
+  <object id="76" name="pill" x="259" y="41" width="16" height="16"/>
+  <object id="77" name="pill" x="291" y="41" width="16" height="16"/>
+  <object id="78" name="pill" x="323" y="41" width="16" height="16"/>
+  <object id="79" name="pill" x="363" y="41" width="16" height="16"/>
+  <object id="80" name="pill" x="395" y="41" width="16" height="16"/>
+  <object id="81" name="pill" x="395" y="73" width="16" height="16"/>
+  <object id="83" name="pill" x="387" y="105" width="16" height="16"/>
+  <object id="84" name="pill" x="355" y="105" width="16" height="16"/>
+  <object id="86" name="pill" x="331" y="105" width="16" height="16"/>
+  <object id="87" name="pill" x="299" y="105" width="16" height="16"/>
+  <object id="88" name="pill" x="267" y="105" width="16" height="16"/>
+  <object id="89" name="pill" x="227" y="105" width="16" height="16"/>
+  <object id="92" name="pill" x="195" y="105" width="16" height="16"/>
+  <object id="93" name="pill" x="171" y="105" width="16" height="16"/>
+  <object id="94" name="pill" x="139" y="105" width="16" height="16"/>
+  <object id="95" name="pill" x="107" y="105" width="16" height="16"/>
+  <object id="96" name="pill" x="75" y="105" width="16" height="16"/>
+  <object id="97" name="pill" x="40" y="104" width="16" height="16"/>
+  <object id="98" name="pill" x="43" y="73" width="16" height="16"/>
+  <object id="99" name="pill" x="40" y="136" width="16" height="16"/>
+  <object id="100" name="pill" x="40" y="168" width="16" height="16"/>
+  <object id="104" name="pill" x="40" y="200" width="16" height="16"/>
+  <object id="105" name="pill" x="40" y="232" width="16" height="16"/>
+  <object id="106" name="pill" x="75" y="233" width="16" height="16"/>
+  <object id="107" name="pill" x="107" y="233" width="16" height="16"/>
+  <object id="108" name="pill" x="139" y="233" width="16" height="16"/>
+  <object id="109" name="pill" x="139" y="201" width="16" height="16"/>
+  <object id="112" name="pill" x="139" y="137" width="16" height="16"/>
+  <object id="113" name="pill" x="139" y="169" width="16" height="16"/>
+  <object id="114" name="pill" x="203" y="137" width="16" height="16"/>
+  <object id="115" name="pill" x="203" y="161" width="16" height="16"/>
+  <object id="116" name="pill" x="203" y="193" width="16" height="16"/>
+  <object id="118" name="pill" x="171" y="233" width="16" height="16"/>
+  <object id="120" name="pill" x="195" y="233" width="16" height="16"/>
+  <object id="121" name="pill" x="227" y="233" width="16" height="16"/>
+  <object id="148" name="pill" x="584" y="40" width="16" height="16"/>
+  <object id="150" name="pill" x="646" y="40" width="16" height="16"/>
+  <object id="151" name="pill" x="675" y="41" width="16" height="16"/>
+  <object id="152" name="pill" x="707" y="41" width="16" height="16"/>
+  <object id="153" name="pill" x="739" y="41" width="16" height="16"/>
+  <object id="154" name="pill" x="771" y="41" width="16" height="16"/>
+  <object id="155" name="pill" x="803" y="41" width="16" height="16"/>
+  <object id="156" name="pill" x="835" y="41" width="16" height="16"/>
+  <object id="157" name="pill" x="875" y="41" width="16" height="16"/>
+  <object id="159" name="pill" x="459" y="41" width="16" height="16"/>
+  <object id="160" name="pill" x="515" y="41" width="16" height="16"/>
+  <object id="161" name="pill" x="608" y="72" width="16" height="16"/>
+  <object id="162" name="pill" x="576" y="72" width="16" height="16"/>
+  <object id="163" name="pill" x="552" y="72" width="16" height="16"/>
+  <object id="164" name="pill" x="520" y="72" width="16" height="16"/>
+  <object id="165" name="pill" x="488" y="72" width="16" height="16"/>
+  <object id="166" name="pill" x="456" y="72" width="16" height="16"/>
+  <object id="167" name="pill" x="424" y="72" width="16" height="16"/>
+  <object id="168" name="pill" x="643" y="73" width="16" height="16"/>
+  <object id="181" name="pill" x="392" y="201" width="16" height="16"/>
+  <object id="182" name="pill" x="616" y="200" width="16" height="16"/>
+  <object id="183" name="pill" x="576" y="200" width="16" height="16"/>
+  <object id="184" name="pill" x="549" y="200" width="16" height="16"/>
+  <object id="185" name="pill" x="517" y="200" width="16" height="16"/>
+  <object id="186" name="pill" x="485" y="200" width="16" height="16"/>
+  <object id="187" name="pill" x="453" y="200" width="16" height="16"/>
+  <object id="188" name="pill" x="421" y="200" width="16" height="16"/>
+  <object id="189" name="pill" x="648" y="200" width="16" height="16"/>
+  <object id="190" name="pill" x="584" y="240" width="16" height="16"/>
+  <object id="191" name="pill" x="520" y="240" width="16" height="16"/>
+  <object id="192" name="pill" x="456" y="240" width="16" height="16"/>
+  <object id="193" name="pill" x="392" y="232" width="16" height="16"/>
+  <object id="194" name="pill" x="360" y="232" width="16" height="16"/>
+  <object id="196" name="pill" x="328" y="232" width="16" height="16"/>
+  <object id="197" name="pill" x="328" y="200" width="16" height="16"/>
+  <object id="199" name="pill" x="328" y="168" width="16" height="16"/>
+  <object id="200" name="pill" x="328" y="136" width="16" height="16"/>
+  <object id="201" name="pill" x="264" y="144" width="16" height="16"/>
+  <object id="203" name="pill" x="264" y="168" width="16" height="16"/>
+  <object id="204" name="pill" x="264" y="200" width="16" height="16"/>
+  <object id="206" name="superPill" x="264" y="232" width="16" height="16"/>
+  <object id="207" name="pill" x="296" y="232" width="16" height="16"/>
+  <object id="208" name="pill" x="392" y="136" width="16" height="16"/>
+  <object id="209" name="pill" x="392" y="160" width="16" height="16"/>
+  <object id="210" name="pill" x="648" y="104" width="16" height="16"/>
+  <object id="211" name="pill" x="651" y="137" width="16" height="16"/>
+  <object id="214" name="pill" x="651" y="169" width="16" height="16"/>
+  <object id="215" name="pill" x="648" y="232" width="16" height="16"/>
+  <object id="226" name="pill" x="680" y="233" width="16" height="16"/>
+  <object id="227" name="pill" x="712" y="233" width="16" height="16"/>
+  <object id="228" name="pill" x="744" y="233" width="16" height="16"/>
+  <object id="229" name="pill" x="776" y="233" width="16" height="16"/>
+  <object id="230" name="pill" x="808" y="233" width="16" height="16"/>
+  <object id="231" name="pill" x="832" y="233" width="16" height="16"/>
+  <object id="232" name="pill" x="864" y="233" width="16" height="16"/>
+  <object id="235" name="superPill" x="904" y="240" width="16" height="16"/>
+  <object id="236" name="superPill" x="907" y="40" width="16" height="16"/>
+  <object id="237" name="pill" x="907" y="104" width="16" height="16"/>
+  <object id="238" name="pill" x="907" y="72" width="16" height="16"/>
+  <object id="239" name="pill" x="907" y="136" width="16" height="16"/>
+  <object id="240" name="pill" x="907" y="168" width="16" height="16"/>
+  <object id="241" name="pill" x="907" y="200" width="16" height="16"/>
+  <object id="252" name="pill" x="707" y="105" width="16" height="16"/>
+  <object id="253" name="pill" x="739" y="105" width="16" height="16"/>
+  <object id="254" name="pill" x="771" y="105" width="16" height="16"/>
+  <object id="255" name="pill" x="803" y="105" width="16" height="16"/>
+  <object id="256" name="pill" x="835" y="105" width="16" height="16"/>
+  <object id="257" name="pill" x="875" y="105" width="16" height="16"/>
+  <object id="259" name="pill" x="707" y="145" width="16" height="16"/>
+  <object id="261" name="pill" x="771" y="145" width="16" height="16"/>
+  <object id="263" name="pill" x="835" y="145" width="16" height="16"/>
+  <object id="266" name="pill" x="707" y="169" width="16" height="16"/>
+  <object id="268" name="pill" x="771" y="169" width="16" height="16"/>
+  <object id="270" name="pill" x="835" y="169" width="16" height="16"/>
+  <object id="273" name="pill" x="707" y="193" width="16" height="16"/>
+  <object id="275" name="pill" x="771" y="193" width="16" height="16"/>
+  <object id="277" name="pill" x="835" y="193" width="16" height="16"/>
+  <object id="280" name="pill" x="712" y="72" width="16" height="16"/>
+ </objectgroup>
+</map>
